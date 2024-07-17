@@ -1,5 +1,7 @@
 RESOLUSI AZWAL
 - Konsisten belajar coding
+  * Niatnya dulu yang kuat
+  * Magernya ilangin
 - Pahami bahasa yang dipelajari
 - Buat projek sederhana
 - Buat projek kompleks
