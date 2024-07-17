@@ -2,3 +2,5 @@ RESOLUSI AZWAL
 - Konsisten belajar coding
 - Pahami bahasa yang dipelajari
 - Buat projek sederhana
+- Buat projek kompleks
+- Kolaborasi tim
